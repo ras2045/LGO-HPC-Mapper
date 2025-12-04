@@ -1,0 +1,10 @@
+LGO Volatile Sequence Data Channel
+This file serves as the collaboration interface.
+It contains Pn values where the LGO prediction (G_pred) was exceeded
+by the actual prime gap (G_actual).
+
+Format: Pn, ActualGap, PredictedGap
+Example: 407233, 30, 28
+
+Collaborators: Please use this data to perform deterministic sieving
+and verify the true gaps for recalibration purposes.
