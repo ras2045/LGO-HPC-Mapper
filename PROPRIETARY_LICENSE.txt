@@ -1,0 +1,7 @@
+LGO-HPC-Mapper Proprietary Use License (For lgo_mapper.cpp)
+​Copyright (c) 2025 [Your Organization Name]
+​This license applies ONLY to the file lgo_mapper.cpp and any derivative works of that specific file.
+​Non-Commercial and Research Use: You are granted a non-exclusive, non-transferable license to use, copy, modify, and distribute the lgo_mapper.cpp source code and its compiled binary solely for non-commercial, internal research, academic, and personal study purposes.
+​Commercial Use Forbidden: Any use of lgo_mapper.cpp or its compiled binary for direct commercial purposes, production workflows, or monetization by any corporate entity requires a separate, written, commercial license agreement from the Copyright Holder. Commercial use includes, but is not limited to, using the program to provide services to third parties, integrate into a commercial product, or generate data for sales or revenue generation.
+​Attribution and Notice: The above copyright notice and this proprietary use restriction must be included in all copies or substantial portions of the Software.
+​All other files in this repository (e.g., lgo_recalibrate.py, README.md) remain under the MIT License, encouraging open collaboration on the model's refinement and analysis layers.
